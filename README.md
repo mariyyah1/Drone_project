@@ -1,6 +1,6 @@
 # Drone_project
 
-# 🌊 SkyGuard: Autonomous Maritime Rescue Drone
+# 🌊 Swift Rescue Drone: Autonomous Maritime Rescue Drone
 
 **SkyGuard** is an advanced autonomous system designed for high-stakes search and rescue (SAR) missions in maritime environments. It integrates **PX4 Autopilot**, **ROS 2 Humble**, and **YOLOv8** to automate the detection of missing persons at sea.
 
